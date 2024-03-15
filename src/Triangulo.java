@@ -21,4 +21,3 @@ public class Triangulo extends FigurasGeometricas{
         return 2* this.valor1+this.valor2;
     }
 }
-//

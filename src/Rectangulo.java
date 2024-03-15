@@ -21,4 +21,3 @@ public class Rectangulo extends FigurasGeometricas{
         return 0;
     }
 }
-//

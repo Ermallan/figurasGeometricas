@@ -4,6 +4,6 @@ public class Main {
         Cuadrado cuadrado= new Cuadrado(5);
         System.out.println(cuadrado.getArea());
         Cubo cubo= new Cubo(3);
-        System.out.println(cubo.getArea());//
+        System.out.println(cubo.getArea());
     }
 }
