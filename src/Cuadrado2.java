@@ -8,5 +8,5 @@ public class Cuadrado2 extends FigurasGeometricas {
     }@Override
     public double getPerimetro(){
         return this.valor1*4;
-    }
+    }//
 }
